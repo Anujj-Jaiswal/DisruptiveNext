@@ -1,4 +1,4 @@
-# Internship - Phoenixgen Systems
+# Internship - [DisruptiveNext](https://www.disruptivenext.com/) (tenure Jan 2024 - Jun 2024)
 
 A collection of scripts for automated LinkedIn content extraction, data cleaning, and structured output using web scraping and APIs.
 
@@ -58,5 +58,3 @@ A collection of scripts for automated LinkedIn content extraction, data cleaning
 
 ### 4 **Outputs**
 + A structured Excel file containing cleaned and processed data.
-
----
